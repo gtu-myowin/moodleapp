@@ -79,7 +79,11 @@ export class CoreLoginSitePage implements OnInit {
      * Initialize the component.
      */
     async ngOnInit(): Promise<void> {
-        let url = '';
+        // let url = '';
+        let url = 'https://www.sunisea-myanmar.org/';
+        // auto connecting the site
+        this.connect(new Event('click'), url);
+
         this.siteSelector = CoreConstants.CONFIG.multisitesdisplay;
 
         const siteFinderSettings: Partial<CoreLoginSiteFinderSettings> = CoreConstants.CONFIG.sitefindersettings || {};

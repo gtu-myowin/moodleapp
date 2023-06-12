@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget android-versionCode="42000" id="com.suniseamyanmar.app" ios-CFBundleVersion="4.2.0.0" version="4.2.0" versionCode="42000" xmlns="http://www.w3.org/ns/widgets" xmlns:android="http://schemas.android.com/apk/res/android" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+<widget android-versionCode="42110" id="com.suniseamyanmar.app" ios-CFBundleVersion="4.2.1.1" version="4.2.1.1" versionCode="42110" xmlns="http://www.w3.org/ns/widgets" xmlns:android="http://schemas.android.com/apk/res/android" xmlns:cdv="http://cordova.apache.org/ns/1.0">
     <name>SUNI-SEA Myanmar</name>
     <description>Mobile app for SUNI-SEA Myanmar</description>
     <author email="info@myanmarwebdesigner.com" href="https://www.myanmarwebdesigner.com">Myanmar Web Designer (MWD) Co., Ltd.</author>
